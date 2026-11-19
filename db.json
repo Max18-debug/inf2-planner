@@ -1,0 +1,92 @@
+
+{
+  "vakken": [
+    {
+      "id": 1,
+      "naam": "Informatica voor IoT 2",
+      "docent": "Nog in te vullen"
+    },
+    {
+      "id": 2,
+      "naam": "Informatica voor IoT 3",
+      "docent": "Nog in te vullen"
+    },
+    {
+      "id": 3,
+      "naam": "Werkplekleren",
+      "docent": "Nog in te vullen"
+    }
+  ],
+  "taken": [
+    {
+      "id": 1,
+      "titel": "Opdracht 3a planner",
+      "vak_id": 1,
+      "deadline": "2026-11-20",
+      "klaar": false
+    },
+    {
+      "id": 2,
+      "titel": "RESTful API kennistoets",
+      "vak_id": 1,
+      "deadline": "2026-11-17",
+      "klaar": true
+    },
+    {
+      "id": 3,
+      "titel": "Flask portfolio",
+      "vak_id": 1,
+      "deadline": "2026-10-23",
+      "klaar": true
+    },
+    {
+      "id": 4,
+      "titel": "Opdracht 3b API",
+      "vak_id": 1,
+      "deadline": "2026-11-27",
+      "klaar": false
+    },
+    {
+      "id": 5,
+      "titel": "Opdracht 3c Canvas",
+      "vak_id": 1,
+      "deadline": "2026-12-04",
+      "klaar": false
+    },
+    {
+      "id": 6,
+      "titel": "CoAP opdracht",
+      "vak_id": 2,
+      "deadline": "2026-10-29",
+      "klaar": true
+    },
+    {
+      "id": 7,
+      "titel": "MQTT opdracht",
+      "vak_id": 2,
+      "deadline": "2026-11-21",
+      "klaar": false
+    },
+    {
+      "id": 8,
+      "titel": "Webhook multisensor",
+      "vak_id": 2,
+      "deadline": "2026-10-25",
+      "klaar": true
+    },
+    {
+      "id": 9,
+      "titel": "Stagebedrijf zoeken",
+      "vak_id": 3,
+      "deadline": "2026-12-01",
+      "klaar": false
+    },
+    {
+      "id": 10,
+      "titel": "Stage voorbereiden",
+      "vak_id": 3,
+      "deadline": "2027-02-15",
+      "klaar": false
+    }
+  ]
+}
